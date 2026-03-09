@@ -6,6 +6,7 @@ README - Challenge_AuraStoreLatam
 
 💡Factores claves evaluar💡
 
+
 Análisis de facturación (Ingresos totales de cada tienda).
 Categorías de productos (más y menos vendidos).
 Calificaciones promedio de los clientes por tienda (Satisfacción).
