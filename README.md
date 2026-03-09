@@ -32,6 +32,7 @@ Pandas – Manipulación y análisis de datos
 Matplotlib – Visualización de datos
 Seaborn – Visualizaciones estadísticas
 NumPy – Operaciones numéricas
+
 📦 Instalación y Configuración
 
 Prerrequisitos Python 3.8 o superior
