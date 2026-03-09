@@ -1,4 +1,4 @@
-README - Challenge_AuraStoreLatam - grupo G9
+README - Challenge_AuraStoreLatam
 
 💡Acerca del desafío💡 El desafío "Challenge_AuraStore", tiene como objetivo principal realizar un análisis de datos para comprender el desempeño de cuatro tiendas (tienda_1.csv, tienda_2.csv, tienda_3.csv, tienda_4.csv) y, basándose en los resultados, recomendar al Sr.Juan, cuál de ellas vender. La idea es liberar capital para un nuevo emprendimiento.
 
